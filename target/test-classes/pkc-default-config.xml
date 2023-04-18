@@ -1,0 +1,19 @@
+<settings>
+    <perf-kinesis-consumer>
+        <applicationName></applicationName>
+        <streamName></streamName>
+        <startPosition>latest</startPosition>
+        <!--<startPosition>oldest</startPosition>-->
+        <region>
+            <name>us-west-2</name>
+            <endPoint>https://kinesis.us-west-2.amazonaws.com</endPoint>
+        </region>
+        <!--<region>
+            <name>us-east-1</name>
+            <endPoint>https://kinesis.us-east-1.amazonaws.com</endPoint>
+        </region>-->
+        <message-processors>
+            <!--<CSVMessageProcessor></CSVMessageProcessor>-->
+        </message-processors>
+    </perf-kinesis-consumer>
+</settings>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestAssuredAPI.RestAssuredAPI.AppTest" duration-ms="5" started-at="2023-04-18T10:22:45Z" finished-at="2023-04-18T10:22:45Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="5" started-at="2023-04-18T10:22:45Z" finished-at="2023-04-18T10:22:45Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- RestAssuredAPI.RestAssuredAPI.AppTest -->
+</testng-results>
